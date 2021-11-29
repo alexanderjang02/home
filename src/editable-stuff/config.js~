@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/alexanderjang"),
+  imageLink: require("../editable-stuff/alexanderjang.png"),
   imageSize: 375,
   message:
     "My name is Alexander Jang and I am currently a sophomore studying Computer Science and Business Administration at the University of California, Berkeley.",
