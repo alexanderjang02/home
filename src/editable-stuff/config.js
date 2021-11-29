@@ -108,14 +108,14 @@ const skills = {
     { name: "HTML/CSS", value: 55 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Spending time with Friends/Family", value: 90 },
+    { name: "Guitar", value: 75 },
+    { name: "Table Tennis", value: 85 },
+    { name: "Gaming", value: 70 },
+    { name: "Chess", value: 60 },
+    { name: "Other Sports/Excercising", value: 80 },
+    { name: "Eating", value: 90 },
+    { name: "Discovering Music", value: 70 },
   ],
 };
 
