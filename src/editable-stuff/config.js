@@ -124,7 +124,7 @@ const getInTouch = {
   show: true,
   heading: "Feel Free to Reach Out!",
   message:
-    "I am currently looking for Summer 2022 intern opportunities in Software Engineering, Product Management, Consulting, and Data Science! If you know of any open positions, have any questions, or just want to say hello, please feel free to email me at",
+    "I am currently looking for Summer 2022 intern opportunities for Software Engineering, Product Management, Consulting, Data Science, and more! If you know of any open positions, have any questions, or just want to say hello, please feel free to email me at",
   email: "atjang@berkeley.edu",
 };
 
