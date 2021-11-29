@@ -1,4 +1,4 @@
-/*import React from "react";
+import React from "react";
 import Container from "react-bootstrap/Container";
 
 const Footer = (props) => {
@@ -15,13 +15,12 @@ const Footer = (props) => {
           href="https://github.com/hashirshoaeb"
           aria-label="My GitHub"
         >
-          Hashir Shoaib
+          Alexander Jang
         </a>{" "}
         using <i className="fab fa-react" />
         <p>
           <small className="text-muted">
-            Project code is open source. Feel free to fork and make your own
-            version.
+            College Ave | Berkeley, CA | Bay Area 
           </small>
         </p>
       </Container>
@@ -29,4 +28,4 @@ const Footer = (props) => {
   );
 };
 
-export default Footer;*/
+export default Footer;
