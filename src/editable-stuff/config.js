@@ -111,7 +111,7 @@ const skills = {
     { name: "Spending time with Friends/Family", value: 90 },
     { name: "Guitar", value: 75 },
     { name: "Table Tennis", value: 85 },
-    { name: "Gaming", value: 70 },
+    { name: "Gaming", value: 75 },
     { name: "Chess", value: 60 },
     { name: "Other Sports/Excercising", value: 80 },
     { name: "Eating", value: 90 },
